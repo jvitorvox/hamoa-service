@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"help\\(''''modules''''\\)\")",
+      "WebFetch(domain:github.com)"
+    ]
+  }
+}
